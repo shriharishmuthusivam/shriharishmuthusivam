@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shriharishmuthusivam&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <a href="https://linkedin.com/in/shri-harish"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://harish-visiting-card.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://shriharishmuthusivam.github.io/Internship_webpage/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:shriharishmuthusivam@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
